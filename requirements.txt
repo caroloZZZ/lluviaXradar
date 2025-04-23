@@ -1,0 +1,10 @@
+scikit-learn
+xarray
+pandas
+geopandas
+matplotlib
+cartopy
+scipy
+rioxarray
+openpyxl
+xlrd
